@@ -1,0 +1,1 @@
+Dental Health Checker is a mobile app that uses machine learning to assess dental health. Users capture images of their teeth with smartphone cameras, which are analyzed by a TensorFlow Lite model to detect issues like cavities or gum disease.
